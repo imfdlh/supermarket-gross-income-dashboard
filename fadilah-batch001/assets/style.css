@@ -1,0 +1,11 @@
+.link-nama {
+    color: #000000;
+}
+
+.link-nama:hover {
+    color: #f39c12;
+}
+
+.content-m {
+    font-size: 18px;
+}
